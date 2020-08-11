@@ -11,4 +11,3 @@ __Página de Pesquisa de Proffys(Destinada aos Alunos): Onde você pode pesquisa
 __Utilizando HTML5, CSS, NODE E SQLITE__
 
 ![GitHub Logo](/main.png)
-Format: ![Alt Text](url)
